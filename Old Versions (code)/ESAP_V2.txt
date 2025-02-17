@@ -1,3 +1,5 @@
+//Created by Harley Peterson, @AwesomeTornado on github
+
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BMP085_U.h>
